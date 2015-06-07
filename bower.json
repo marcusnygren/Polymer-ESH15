@@ -1,0 +1,20 @@
+{
+  "name": "East-Sweden-Hack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marcusnygren/next9",
+  "authors": [
+    "marny568 <marny568@student.liu.se>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-input": "PolymerElements/iron-input#~1.0.2"
+  }
+}
