@@ -1,5 +1,5 @@
 {
-  "name": "East-Sweden-Hack",
+  "name": "Google-Sheets",
   "version": "0.0.0",
   "homepage": "https://github.com/marcusnygren/next9",
   "authors": [
@@ -14,7 +14,9 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0",
-    "iron-input": "PolymerElements/iron-input#~1.0.2"
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.1",
+    "google-map": "GoogleWebComponents/google-map#~1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#~0.7.3",
+    "google-signin": "GoogleWebComponents/google-signin#~1.0.0"
   }
 }
